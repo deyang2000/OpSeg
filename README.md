@@ -100,9 +100,6 @@ model_dir = snapshot_download('deyang2000/SAM2_Shadow')
 **Google Drive**
 👉 [Download from Google Drive](https://drive.google.com/file/d/1K7HwdSrK9O9kfKF0F7X_7-T_6McGjG4j/view?usp=sharing)
 
-在ISAT中使用该checkpoint时，你只需要将文件名修改为sam2.1_hiera_base_plus即可。
----
-
 💡 **在 ISAT 中使用时：**
 只需将下载得到的权重文件重命名为：
 
