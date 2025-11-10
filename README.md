@@ -1,4 +1,4 @@
-# 🌓 OpSeg: Instance Shadow Segmentation with SAM2.1_b+
+# 🌓 OpSeg: Instance Shadow Segmentation with SAM2.1
 
 <div align="center">
 
