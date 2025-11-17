@@ -113,16 +113,19 @@ sam2.1_hiera_base_plus
 ## 📚 引用 (Citation)
 
 ```bibtex
-@inproceedings{li2025opseg,
-  title     = {OpSeg: Adapting Segment Anything Model 2 with Prompts for Efficient Instance Shadow Detection},
-  author    = {Yanfei Li and Jun Xu and Yuan Zeng and Yi Gong},
-  booktitle = {Proceedings of the 2025 IEEE International Joint Conference on Neural Networks (IJCNN)},
-  year      = {2025},
-  address   = {Rome, Italy},
-  publisher = {IEEE},
-  note      = {Official Implementation: https://www.modelscope.cn/deyang2000/SAM2_Shadow}
-}
+@INPROCEEDINGS{11228401,
+  author={Li, Yanfei and Xu, Jun and Zeng, Yuan and Gong, Yi},
+  booktitle={2025 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={OPSeg: Adapting Segment Anything Model 2 with Prompts for Efficient Instance Shadow Detection}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Training;Image segmentation;Visualization;Accuracy;Semantics;Object segmentation;Object detection;Inference algorithms;Robustness;Videos;Segment anything model;instance shadow detection;fine-tune},
+  doi={10.1109/IJCNN64981.2025.11228401}}
+
 ```
+
 
 ---
 
